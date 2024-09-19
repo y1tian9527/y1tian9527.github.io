@@ -2,8 +2,7 @@
 title: "Influence of loading history and soil type on the normal contact behavior of natural sand grain-elastomer composite interfaces"
 collection: publications
 category: manuscripts
-permalink: /publication/paper-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/paper_1
 date: 2021-6-1
 Journal: 'Polymers'
 paperurl: 'http://y1tian9527.github.io/files/paper1.pdf'
