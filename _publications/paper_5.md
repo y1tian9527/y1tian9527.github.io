@@ -5,7 +5,7 @@ category: manuscript
 permalink: /publication/paper_4
 date: 2024-1-1
 Journal: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper5.pdf'
+paperurl: 'http://y1tian9527.github.io/files/paper5.pdf'
 citation: 'Tian, Y., & Senetakis, K. (2024). On the creep problem of soft-rigid interfaces: analysis of the normal contact behavior and application of creep models. Granular Matter, 26(1), 8.'
 ---
 ABSTRACT
