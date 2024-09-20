@@ -1,6 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "CA2560 Geology for Engineers"
 collection: teaching
+duty: Teaching Assistant
 type: "Undergraduate course"
 permalink: https://www.cityu.edu.hk/catalogue/ug/current/course/CA3664.htm
 venue: "City University of Hong Kong, Department of Architecture and Civil Engineering"
