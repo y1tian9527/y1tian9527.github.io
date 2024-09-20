@@ -1,5 +1,5 @@
 ---
-title: "On the creep problem of soft-rigid interfaces: analysis of the normal contact behavior and application of creep models
+title: "On the creep problem of soft-rigid interfaces: analysis of the normal contact behavior and application of creep models"
 collection: publications
 category: manuscript
 permalink: /publication/paper_4
